@@ -16,6 +16,16 @@ It features a clean, modern layout using Flexbox and follows a mobile-first appr
 
 ---
 
+## ❌ Challenges & Fixes
+
+- Overused `<div>` tags — refactored to use semantic HTML5 tags like `<section>`, `<main>`, and `<header>`  
+- Missed adding the `<meta viewport>` tag — caused responsiveness issues on mobile; now fixed  
+- Inconsistent spacing across sections — resolved by defining and applying a consistent spacing system  
+- Flexbox layout misalignments — corrected after re-learning alignment properties like `justify-content` and `align-items`  
+- Layouts breaking on smaller screens — fixed by properly configuring media queries and responsive units  
+
+
+
 ## 🛠️ Technologies
 
 - HTML5  
@@ -35,7 +45,27 @@ It features a clean, modern layout using Flexbox and follows a mobile-first appr
 
 ---
 
+## 📸 Screenshots
+
+*(Add screenshots here if you want. For example:)*  
+![Desktop View](./screenshots/desktop.png)  
+![Tablet View](./screenshots/tablet.png)  
+![Mobile View](./screenshots/mobile.png)
+
+
+## 🚀 Live Preview
+
+🔗 [View Live Site](https://your-deployment-link.com)
+
+---
+
 ## 🙌 Author
 
-**Anika** – Front-end Developer in Progress  
+**Anika** – Front-end Developer in Progress | Passionate about clean design & responsive UI  
+📫 Reach out: [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com)
+
+---
+
+> If you liked this project, feel free to ⭐ the repo and give feedback!
+
 
