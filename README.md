@@ -48,9 +48,9 @@ It features a clean, modern layout using Flexbox and follows a mobile-first appr
 ## 📸 Screenshots
 
 *(Add screenshots here if you want. For example:)*  
-![Desktop View](./screenshots/desktop.png)  
-![Tablet View](./screenshots/tablet.png)  
-![Mobile View](./screenshots/mobile.png)
+![Desktop View](/https://github.com/Anika1111122222/-Tour-Mama-Responsive-Travel-Landing-Page/blob/206c4d85690bcee05665c327da994f941c151b28/images/Screenshot%20-laptop%20view-Tour%20MaMa.png)  
+![Tablet View](https://github.com/Anika1111122222/-Tour-Mama-Responsive-Travel-Landing-Page/blob/206c4d85690bcee05665c327da994f941c151b28/images/Screenshot-tablet-view%20Tour%20MaMa.png)  
+![Mobile View](https://github.com/Anika1111122222/-Tour-Mama-Responsive-Travel-Landing-Page/blob/206c4d85690bcee05665c327da994f941c151b28/images/Screenshot%20-mobile%20view-Tour%20MaMa.png)
 
 
 ## 🚀 Live Preview
