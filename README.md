@@ -58,14 +58,15 @@ It features a clean, modern layout using Flexbox and follows a mobile-first appr
 
 ## 🚀 Live Preview
 
-🔗 [View Live Site](https://your-deployment-link.com)
+🔗 [View Live Site](https://anika1111122222.github.io/Tour-Mama-Responsive-Travel-Landing-Page/)
 
 ---
 
 ## 🙌 Author
 
 **Anika** – Front-end Developer in Progress | Passionate about clean design & responsive UI  
-📫 Reach out: [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com)
+📫 Reach out: [LinkedIn](https://www.linkedin.com/in/anika-sultana-39690b365/) • [Email](sultanaanika437@gmail.com) 
+
 
 ---
 
