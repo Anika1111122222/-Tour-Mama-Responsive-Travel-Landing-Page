@@ -1,0 +1,80 @@
+/* laptop desice */
+@media screen and (max-width: 1200px){
+   banner-content h1{
+    font-size:48px;
+   }
+   .service-card{
+    padding:80px 20px;
+
+   }
+   .story-image img{
+    height: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+
+   }
+   
+   
+}
+/* 
+tablet device */
+
+@media screen and (max-width:1024px){
+#banner {
+    display:flex;
+    flex-direction: column-reverse;
+    align-items:center;
+}
+.banner-content{
+    width:100%; 
+    text-align: center;
+}
+.banner-image{
+    width:100%;
+}
+.banner-content h1{
+    font-size: 48px;
+    
+}
+#service-card-container{
+    flex-direction: column;
+}
+.service-card{
+    max-width :100%;
+}
+.story-card{
+    flex-direction: column;
+    text-align: center;
+
+}
+.story-content{
+    width: 100%;
+}
+.story-image{
+    width: 100% ;
+    
+}
+/* .story-content h2,p{
+    text-align: center;
+} */
+
+
+}
+
+@media screen and (max-width:640px){
+    img{
+    margin-bottom: 30px;
+}
+
+#country-card-container{
+   flex-direction: column;
+
+
+}
+#country-card-container{
+    text-align:center;
+}
+.story-card{
+    text-align: center;
+} 
+}

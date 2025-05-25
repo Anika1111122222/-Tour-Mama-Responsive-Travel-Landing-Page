@@ -1,0 +1,271 @@
+ *{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;  
+}
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(#FFFFFF,#EBDCFF);
+}
+
+/* 
+todays work */
+
+img{
+    max-width: 100%;
+}
+
+
+
+
+.btn{
+    background-color: #872bff;
+    border-radius:30px;
+    padding: 16px 32px;
+    color: white;
+    cursor:pointer;
+    margin-right:20px;
+}
+.btn-white {
+    /* background-color: #872bff; */
+    border-radius:30px;
+    border: 2px solid #872bff;
+    padding: 16px 32px;
+    /* color: white; */
+    cursor:pointer;
+    margin-right:20px;
+}
+
+#banner{
+    margin: 100px auto 120px auto;
+    /* margin: t r b l */
+    width: 87.5%;
+    border-radius: 40px;
+    border: 2px solid #872bff10;
+    padding: 20px 30px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color: white;
+    background-image: url("../ture-mama-code/images/hero-bg.png");
+}
+.banner-content{
+    width:50%; 
+}
+.banner-content * {
+   margin-bottom:20px; 
+}
+.banner-content h1{
+    font-size: 70px;
+    font-weight: bold;
+}
+.banner-content h1 span{
+    color: #f411Cf;
+}
+.banner-content p{
+    font-size:18px;
+    font-weight: medium;
+    color: #a8a8a8;
+}
+.banner-image{
+    width:50%;
+}
+/* .banner-image img{
+    width:471px;
+} */
+/* Service container */
+
+#service , #story{
+    width:87.5%;
+    margin:0px auto 120px auto;
+}
+.heading-content{
+    text-align:center;
+}
+.heading-content h4{
+    color:#F411CF;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom:20px;
+}
+.heading-content h2{
+    font-weight:bold;
+    font-size:44px;
+    margin-bottom:30px;
+}
+/*  */
+#service-card-container{
+    display:flex;
+    gap:30px;
+}
+
+.service-card{
+    background-color:white;
+    padding: 70px;
+    text-align:center;
+    max-width:300px;
+    border-radius:30px;
+
+
+}
+.service-card img{
+    width: 80px; 
+    margin-bottom:30px;
+}
+.service-card h2 {
+    font-weight: semibold;
+    font-size: 28px;
+    margin-bottom:20px;
+
+}
+.service-card p{
+    color: #a8a8a8;
+
+}
+/* story-container */
+
+.story-card{
+    background-color: white;
+    padding: 40px;
+    border-radius: 24px;
+    display:flex;
+    gap:20px;
+}
+.story-content img{
+    width:100px;   
+
+}
+.story-content{
+    width: 60%;
+}
+.story-image { 
+
+    width: 40% ;
+}
+.story-content h2,
+.story-content p,
+.story-content img {
+    margin-bottom:7px;
+
+}
+/* country card container */
+
+#country-card-container {
+    display:flex;
+    gap:30px;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+#country-card-container h2{
+    background-color:white;
+    padding:40px;
+    border-radius:30px; 
+}
+.button-last {
+    justify-content: center;
+    display: flex;
+    margin-top:60px;
+}
+tourist-container*/
+#tourist-container{
+    justify-content: center;
+     width:89%;
+     margin-top:60px;
+
+}
+#tourist-container {
+    margin: 60px 60px;
+    
+}
+#tourist{
+    padding: 30px;
+    justify-content: center;
+    text-align: center;
+    
+
+
+}
+#blog {
+    background-color: #ffffff;
+    margin-right: 30px;
+}
+/* #blog-p{
+    
+    border-radius: 10px;
+} */
+#name{
+    text-align: center;
+    
+    
+}
+#name-p{
+    text-align: center;
+    font-weight: bold;
+}
+
+.all-content{
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-top:26px;
+} 
+#p-tag{
+    padding:20px 20px;
+    color:#a8a8a8;
+    font-size: 13.5px;
+
+}
+
+#img-tag{
+    position: relative;
+    top:-30px;
+    left: 300px;
+    
+}
+
+#name-p2{
+    font-size: 11px;
+    color:#a8a8a8;
+}
+#p-p2{
+    position: relative;
+    bottom: -25px;
+}
+
+footer{
+    background-color: #FFFFFF;
+    height: 50px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    margin-top:100px;
+ 
+
+}
+
+#footer-area{
+    display:flex;
+    justify-content: space-between;
+     margin-left: 60px;
+    margin-right: 60px;
+     
+    
+}
+#footer-area p{
+    font-size:11px;
+    margin-top:20px;
+    color:#a8a8a8;
+}
+
+#social-icons{
+    align-items:center ;
+    margin-top:12px;
+    font-size: 14px;
+    
+
+    
+
+}
+
+
